@@ -1,8 +1,6 @@
 import React from "react";
-import "./App.css";
-
-function App() {
+function UserPage() {
   return <div className="App">Đã đăng nhập</div>;
 }
 
-export default App;
+export default UserPage;
